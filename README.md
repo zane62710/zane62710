@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=zane62710&theme=dracula)
+
 
 <!---
 zane62710/zane62710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
